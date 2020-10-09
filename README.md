@@ -9,5 +9,5 @@ programming language because i saw it as the most complete tool that enabled lea
 with the least syntactic barrier.
 
 I love computers and technology. Configuring each program to the maximum, knowing how
-they work and how to modify, repair and configure almost every part of a modern PC is
-what floats my boat.
+they work and how to modify, repair and configure almost every part of a modern PC does
+float my boat.
