@@ -1,7 +1,7 @@
 # About me
 
 <a href="https://iagoalonso.xyz">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ibledy&theme=dark&show_icons=true&hide_border=false&count_private=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ibledy&theme=dark&show_icons=true&hide_border=false&count_private=true&hide_rank=true" />
 </a>
 
 I'm a self-taught developer and computer technician. I started with Python as my main
